@@ -14,7 +14,7 @@ D. Morris,<sup>3</sup> A. Maigné,<sup>2</sup> N. A. Spaldin<sup>4</sup> and R. 
 ---
 In these notebooks we provide supplemental material for our work on understanding the behaviour of muon-polaron complexes in Fe<sub>2</sub>O<sub>3</sub>.
 
-  We provide <span style="font-variant:small-caps;">vasp</span> input and output files for each of the candidate muon stopping sites and states identified in the paper (also labelled as in the paper). We summarise the muon stopping sites and provide the code for analysing hyperfine tensors in the jupyter notebook: `Muon-site-summary.ipynb`
+  We provide <span style="font-variant:small-caps;">vasp</span> input and output files for each of the candidate muon stopping sites and states identified in the paper (also labelled as in the paper). We summarise the muon stopping sites and provide the code for analysing hyperfine tensors in the jupyter notebook: `Muon-site-summary.ipynb`. There one can also find a summary of the **computational details** for the paper.
 
   We further provide `vasprun.xml` files for some of the tests of convergence with respect to plane-wave cutoff energy and k-point sampling density. These tests are summarised in the jupyter notebook: `Convergence_tests-ENCUT-KPOINTS.ipynb`.
 
