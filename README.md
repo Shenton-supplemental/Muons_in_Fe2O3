@@ -14,7 +14,7 @@ D. Morris,<sup>3</sup> A. Maigné,<sup>2</sup> N. A. Spaldin<sup>4</sup> and R. 
 ---
 In these notebooks we provide supplemental material for our work on understanding the behaviour of muon-polaron complexes in Fe<sub>2</sub>O<sub>3</sub>.
 
-  We provide <span style="font-variant:small-caps;">vasp</span> input and output files for each of the candidate muon stopping sites and states identified in the paper (also labelled as in the paper). We summarise the muon stopping sites and provide the code for analysing hyperfine tensors in the jupyter notebook: `Muon-site-summary.ipynb`. There one can also find a summary of the **computational details** for the paper.
+  We provide <span style="font-variant:small-caps;">VASP</span> input and output files for each of the candidate muon stopping sites and states identified in the paper (also labelled as in the paper). We summarise the muon stopping sites and provide the code for analysing hyperfine tensors in the jupyter notebook: `Muon-site-summary.ipynb`. There one can also find a summary of the **computational details** for the paper.
 
   We further provide `vasprun.xml` files for some of the tests of convergence with respect to plane-wave cutoff energy and k-point sampling density. These tests are summarised in the jupyter notebook: `Convergence_tests-ENCUT-KPOINTS.ipynb`.
 
@@ -22,6 +22,6 @@ In these notebooks we provide supplemental material for our work on understandin
 
   Finally, in `muons_wrt_U.ipynb` we investigate the effects of the choice of the Hubbard U correction on the predicted properties of the four charge-neutral muon-polaron complex states. 
 
-These jupyter notebooks may be previewed on [github](https://github.com/Shenton-supplemental/Muons_in_Fe2O3) or via the [jupyter notebook viewer](https://nbviewer.jupyter.org/github/Shenton-supplemental/Muons_in_Fe2O3). 
+These jupyter notebooks may be previewed on [github](https://github.com/Shenton-supplemental/Muons_in_Fe2O3) or via the [jupyter notebook viewer](https://nbviewer.jupyter.org/github/Shenton-supplemental/Muons_in_Fe2O3). The latter does a better job of rendering the inline LaTeX and is therefore preferred.
 
 Note that all of files are currently compressed to save space. These must be uncompressed before the notebooks will run. In each notebook there is a cell one can run to decompress the files needed for that particular notebook.
