@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/287516883.svg)](https://zenodo.org/badge/latestdoi/287516883)
 # Supplemental material for _Local Electronic Structure and Dynamics of Muon-Polaron Complexes in Fe<sub>2</sub>O<sub>3</sub>_
 
 M. H. Dehn,<sup>1,2,3</sup> J. K. Shenton,<sup>4,*</sup>  D. J. Arseneau,<sup>^3</sup> W. A. MacFarlane,<sup>2,3,5</sup> G.
@@ -18,7 +19,7 @@ In these notebooks we provide supplemental material for our work on understandin
 
   We further provide `vasprun.xml` files for some of the tests of convergence with respect to plane-wave cutoff energy and k-point sampling density. These tests are summarised in the jupyter notebook: `Convergence_tests-ENCUT-KPOINTS.ipynb`.
 
-  In the notebook: `Separating_the_muon-polaron_complex.ipynb`, we analyse the separation of muon from the polaron in different configurations. Here again we provide the <span style="font-variant:small-caps;">vasp</span> input and output files as well as the code used to analyse these results.
+  In the notebook: `Separating_the_muon-polaron_complex.ipynb`, we analyse the separation of muon from the polaron in different configurations. Here again we provide the <span style="font-variant:small-caps;">VASP</span> input and output files as well as the code used to analyse these results.
 
   Finally, in `muons_wrt_U.ipynb` we investigate the effects of the choice of the Hubbard U correction on the predicted properties of the four charge-neutral muon-polaron complex states. 
 
